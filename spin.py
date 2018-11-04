@@ -16,7 +16,7 @@ try:
                     values[k] = 'o'
                 values[i] = s
                 disp.set_values(values)
-                time.sleep(0.1)
+                time.sleep(0.2)
     disp.set_values(['o', 'o', 'o', 'o'])
 except KeyboardInterrupt:
     pass

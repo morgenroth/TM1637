@@ -49,7 +49,8 @@ HEXLETTERS = {
     'S3': 0x04,
     'S4': 0x08,
     'S5': 0x10,
-    'S6': 0x20
+    'S6': 0x20,
+    'S7': 0x40
 }
 
 ADDR_AUTO = 0x40
